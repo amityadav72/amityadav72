@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & Cloud
 - 📫 How to reach me: 988981amityadav@gmail.com
-- ⚡ Fun fact: I'm currently studying B. E. (Computer Science) from P R POTE PATIL COLLEGE OF ENGINEERING 
+- ⚡ Fun fact: I'm currently studying B. E. (Computer Science) from P R POTE PATIL COLLEGE OF ENGINEERING & MANAGEMENT 
 ###
 
 <div align="left">
